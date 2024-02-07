@@ -100,7 +100,7 @@ The "paplay" I had to install in order to start choosing what sound I want to he
 <img width="422" alt="Screenshot 2024-02-04 at 17 31 53" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/768b424d-14d5-48c3-aa2f-9b6b68759111">
 
 
-I also wanted to make sure that my automation was able to run automatically everyday at the same time. After searching online, I found a command called "cron." This enabled me to have the reminder message pop up automatically every day at the same time. 'cron' allows you to schedule tasks at predefined times. The command I used: crontab -e. And I had to find a command to let me adjust the time that I wanted the chime to go off, so I used the command "echo."
+And lastly I wanted to make sure that my automation was able to run automatically everyday at the same time. After searching online, I found a command called "cron." This enabled me to have the reminder message pop up automatically every day at the same time. 'cron' allows you to schedule tasks at predefined times. The command I used: crontab -e. And I had to find a command to let me adjust the time that I wanted the chime to go off, so I used the command "echo."
 
 
 <img width="519" alt="Screenshot 2024-02-04 at 18 27 53" 
